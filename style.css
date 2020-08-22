@@ -1,5 +1,17 @@
-header {
+body {
+  background-color: aliceblue;
+}
+
+.header {
   text-align: center;
+  margin: 10px;
+  padding: 20px;
+  background-color: #005397;
+  opacity: 0.7;
+}
+
+.logo {
+  font-family: "Changa", sans-serif;
 }
 
 main {
@@ -10,27 +22,38 @@ main {
 }
 
 #song {
-  border: 10px dotted blue;
+  border: 10px double grey;
+  border-radius: 15px;
   padding: 15px;
   margin: 10px;
   text-align: center;
 }
 
+.song-img {
+  border-radius: 50%;
+}
+
 .one {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
 .two {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
 .three {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
 .four {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
 .five {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
 .six {
-  /* change stuff */
+  background-color: #005397;
+  opacity: 0.9;
 }
