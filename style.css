@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+#song {
+  border: 10px dotted blue;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+
+.one {
+  /* change stuff */
+}
+.two {
+  /* change stuff */
+}
+.three {
+  /* change stuff */
+}
+.four {
+  /* change stuff */
+}
+.five {
+  /* change stuff */
+}
+.six {
+  /* change stuff */
+}
